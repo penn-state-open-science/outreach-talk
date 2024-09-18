@@ -32,7 +32,7 @@ knitr:
 ::: {.column width="25%"}
 
 Ana Enriquez</br>
-University Libraries</br>
+Libraries</br>
 aee32@psu.edu</br></br>
 
 Rick Gilmore</br>
@@ -70,6 +70,7 @@ Nutrition</br>
 azp271@psu.edu</br></br>
 
 Briana Wham</br>
+Libraries</br>
 bde125@psu.edu
 
 :::
