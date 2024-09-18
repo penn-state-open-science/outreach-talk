@@ -17,13 +17,13 @@ knitr:
 ---
 
 ::: {layout="[[1,1], [1,1]]"}
-![Open Science [Bootcamp 2023](https://penn-state-open-science.github.io/bootcamp-2023/)](https://penn-state-open-science.github.io/bootcamp-2023/include/img/make-word-cloud-1.png){width="60%" align="center"}
+![Open Science [Bootcamp 2023](https://penn-state-open-science.github.io/bootcamp-2023/)](https://penn-state-open-science.github.io/bootcamp-2023/include/img/make-word-cloud-1.png){width="60%" .lightbox}
 
 ![Interest & knowledge [surveys](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-experience-w-open-science-1.png){width="60%" .lightbox}
 
-![Data management [workshop 2024](https://penn-state-open-science.github.io/data-mgmt-2024/)](https://teacherhead.com/wp-content/uploads/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg){width="60%"}
+![Data management [workshop 2024](https://penn-state-open-science.github.io/data-mgmt-2024/)](https://teacherhead.com/wp-content/uploads/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg){width="60%" .lightbox}
 
-![[Speaker](https://penn-state-open-science.github.io/bootcamp-2023/presentation-topics.html#keynote) series](include/img/errington-bootcamp-2023.jpg){width="60%"}
+![[Speaker](https://penn-state-open-science.github.io/bootcamp-2023/presentation-topics.html#keynote) series](include/img/errington-bootcamp-2023.jpg){width="60%" .lightbox}
 :::
 
 ---
