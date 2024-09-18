@@ -1,0 +1,76 @@
+---
+title: "Open Scholarship @ Penn State"
+subtitle: "Join us!"
+author: "Ana Enriquez, Rick Gilmore, Frank Hillary, Nicole Lazar, Alaina Pearce, & Briana Wham"
+format: 
+  revealjs:
+    # footer: "Open Scholarship Blitz"
+    slide-number: true
+    fig-align: center
+    logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
+    css: include/css/styles.css
+knitr:
+  opts_chunk:
+    fig.path: include/fig/
+---
+
+---
+
+::: {layout="[[1,1], [1,1]]"}
+![Open Science [Bootcamp 2023](https://penn-state-open-science.github.io/bootcamp-2023/)](https://penn-state-open-science.github.io/bootcamp-2023/include/img/make-word-cloud-1.png){width="60%" align="center"}
+
+![Interest & knowledge [surveys](https://penn-state-open-science.github.io/survey-fall-2022/data-visualization.html)](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-experience-w-open-science-1.png){width="60%" .lightbox}
+
+![Data management [workshop 2024](https://penn-state-open-science.github.io/data-mgmt-2024/)](https://teacherhead.com/wp-content/uploads/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg){width="60%"}
+
+![[Speaker](https://penn-state-open-science.github.io/bootcamp-2023/presentation-topics.html#keynote) series](include/img/errington-bootcamp-2023.jpg){width="60%"}
+:::
+
+---
+
+:::: {.columns}
+::: {.column width="25%"}
+
+Ana Enriquez</br>
+University Libraries</br>
+aee32@psu.edu</br></br>
+
+Rick Gilmore</br>
+Psychology</br>
+rog1@psu.edu</br></br>
+
+Frank Hillary</br>
+Psychology</br>
+fgh3@psu.edu
+
+:::
+::: {.column width="50%"}
+```{r}
+#| label: fig-qr-code
+#| fig-cap: "https://penn-state-open-science.github.io/outreach-talk"
+code <- qrcode::qr_code("https://penn-state-open-science.github.io/outreach-talk")
+plot(code)
+```
+
+```{r}
+#| label: fig-qr-code-gh
+#| fig-cap: "https://github.com/penn-state-open-science"
+code <- qrcode::qr_code("https://github.com/penn-state-open-science")
+plot(code)
+```
+:::
+::: {.column width="25%"}
+
+Nicole Lazar</br>
+Statistics</br>
+nfl5182@psu.edu</br></br>
+
+Alaina Pearce</br>
+Nutrition</br>
+azp271@psu.edu</br></br>
+
+Briana Wham</br>
+bde125@psu.edu
+
+:::
+::::
